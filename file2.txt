@@ -1,1 +1,2 @@
 This is the content in file2
+Change in develop branch - file2
